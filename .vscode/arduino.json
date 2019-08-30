@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:mini",
+    "port": "COM7",
+    "sketch": "p10ledTimer.ino",
+    "configuration": "cpu=atmega168"
+}
